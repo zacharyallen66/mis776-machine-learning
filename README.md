@@ -1,95 +1,95 @@
 # 🤖 MIS 776: Business Analytics and Machine Learning Portfolio
 
-**Fall 2024 | University of Nevada, Las Vegas**
-Instructor: Dr. Michael J. Lee
-
----
 
 ## 📘 Course Overview
 
-This course focuses on machine learning fundamentals and their application to real-world business problems using Python. Each module builds toward practical implementation of AI tools for classification, clustering, deep learning, and generative models.
+This course explores foundational and advanced machine learning techniques applied to real-world business data using Python. Topics span classification, clustering, deep learning, image processing, and LLM-driven AI.
 
 ---
 
 ## 📂 Portfolio Projects by Module
 
-### 🫮 Module 3: Probability-Based Models
-
-✅ *\[Coming Soon]*
-Topics: Naive Bayes, Gaussian Mixture Models (GMMs), log loss.
-
----
-
-### ⚙️ Module 4: Model Fit, Overfitting, and Tuning
-
-✅ *\[Coming Soon]*
-Topics: Cross-validation, grid search, learning curves.
+### 🫮 Module 3: Probability-Based Models  
+✅ [View Project Folder](./Module3_ProbabilityModels)  
+- Implemented Gaussian Naive Bayes and GMM classification  
+- Evaluated using confusion matrix, accuracy, and log loss  
+- Notebooks: `Assignment1_Classification.ipynb`, `Gaussian Prediction.ipynb`  
 
 ---
 
-### 🧵 Module 5: Clustering & Association Rules
-
-✅ *\[Coming Soon]*
-Topics: K-Means, DBSCAN, market basket analysis.
-
----
-
-### 🧬 Module 6: Introduction to Deep Learning
-
-✅ *\[Coming Soon]*
-Topics: Neural networks, Keras Sequential models, activation functions.
+### ⚙️ Module 4: Model Fit, Overfitting, and Tuning  
+✅ [View Project Folder](./Module4_ModelFit)  
+- Explored bias-variance tradeoff  
+- Used grid search, early stopping, and ensemble tuning  
+- Notebook: `Ensemble.ipynb`, Presentation: `04 - Model Fit.pptx`  
 
 ---
 
-### 🌿 Module 7: Image Classification
-
-✅ **[Mango Leaf Disease Detection App](https://github.com/yourusername/mango-disease-detection)**
-
-* Built a Streamlit web app to detect 8 common mango leaf diseases
-* Custom CNN model trained and deployed using TensorFlow/Keras
-* Users upload leaf images and get automated disease prediction + remedy
-* 🔗 [Google Drive: Dataset + Model Files](https://drive.google.com/drive/folders/1kFK9Vu5M1jHPjHA3hrTxJG3SwX5lsYZ5?usp=sharing)
+### 🧵 Module 5: Clustering & Association Rules  
+✅ [View Project Folder](./Module5_Clustering)  
+- K-Means, Hierarchical Clustering, DBSCAN  
+- Association Rules via Apriori  
+- Notebook: `Assignment2_Clustering.ipynb`, `Association Rules.ipynb`  
 
 ---
 
-### 😶‍\2642️ Module 8: Facial Recognition
-
-✅ *\[Coming Soon]*
-Topics: Face embeddings, OpenCV, face matching.
-
----
-
-### 🔍 Module 9: Object Detection
-
-✅ *\[Coming Soon]*
-Topics: YOLOv5, bounding boxes, real-time detection.
+### 🧬 Module 6: Deep Learning  
+✅ [View Project Folder](./Module6_DeepLearning)  
+- Dense Neural Networks using Keras  
+- PyCaret demonstration on regression tasks  
+- Notebook: `PyCaret Demo.ipynb`, `Regression Demo.ipynb`  
+- Presentation: `06 - Deep Learning.pptx`  
 
 ---
 
-### 🎭 Module 10: Adversarial Networks
-
-✅ *\[Coming Soon]*
-Topics: GANs, image synthesis, style transfer.
-
----
-
-### 🔥 Module 11: Generative AI
-
-✅ *\[Coming Soon]*
-Topics: LLMs, text generation, prompt engineering.
+### 🌿 Module 7: Image Classification  
+✅ **[Mango Leaf Disease Detection App](https://github.com/zacharyallen66/mango-disease-app)**  
+- Streamlit app using TensorFlow CNN  
+- Predicts 8 mango leaf diseases and recommends treatment  
+- 🧠 Model: `mango_model_fixed.keras`  
+- 🔗 [Google Drive: Dataset + Model Files](https://drive.google.com/drive/folders/1kFK9Vu5M1jHPjHA3hrTxJG3SwX5lsYZ5?usp=sharing)  
+- 📸 ![App Screenshot](./media/mango_app.png)
 
 ---
 
-### 🧾 Module 12: Business Application & Presentation
+### 😶‍🌫️ Module 8: Facial Recognition  
+🟡 *In Progress*  
+- Planned: Face embeddings, OpenCV matching, real-time ID
 
-✅ *\[Coming Soon]*
-Topics: Communicating ML results to stakeholders, dashboards, final capstone.
+---
+
+### 🔍 Module 9: Object Detection  
+✅ [View Project Folder](./Module9_ObjectDetection)  
+- YOLO pretrained demo  
+- Custom object detection and transfer learning  
+- Notebook: `PretrainedYOLODemo.ipynb`
+
+---
+
+### 🎭 Module 10: Adversarial Networks  
+🟡 *In Progress*  
+- Planned: GAN implementation for image generation and augmentation
+
+---
+
+### 🔥 Module 11: Generative AI  
+✅ [View Project Folder](./Module11_LLM)  
+- Used BERTopic + OpenRouter to analyze customer NPS survey text  
+- Notebooks: `BERTopic_Best_Practices.ipynb`, `BertTopicSurveyData.ipynb`  
+- Repo: **[BERTopic NPS Analysis](https://github.com/zacharyallen66/bertopic-nps)**
+
+---
+
+### 🧾 Module 12: Strategy and Communication  
+✅ [Group Project Deck](./Module12_BusinessPresentation/12%20-%20Strategy%20and%20Comnunications.pptx)  
+- WDI dataset modeling: Emissions vs GDP  
+- Delivered findings through PowerPoint & data visualizations  
+- Notebooks: `Economic_Data_Preprocess.ipynb`, `Emission_Data_Preprocessing.ipynb`
 
 ---
 
 ## 📚 Resources Referenced
 
-* *Data Science for Business* by Foster Provost and Tom Fawcett
-* *AI Programming in Python* by Perry Xiao
-* MIS 776 Group Project Guidelines
-* Module Slides + Code Notebooks
+- *Data Science for Business* by Foster Provost and Tom Fawcett  
+- *AI Programming in Python* by Perry Xiao  
+- UNLV MIS 776 Materials, Group Project Guidelines, and Module Slides
