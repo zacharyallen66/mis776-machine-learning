@@ -18,7 +18,7 @@ This course explores foundational and advanced machine learning techniques appli
 ---
 
 ### ⚙️ Module 4: Model Fit, Overfitting, and Tuning  
-✅ [View Project Folder](https://github.com/zacharyallen66/mis776-machine-learning/blob/main/Module4_ModelFit)  
+✅ [View Project Folder](https://github.com/zacharyallen66/mis776-machine-learning/tree/main/Module%204%20Model%20Fit%20Overfit%20and%20Tuning)  
 - Explored bias-variance tradeoff  
 - Used grid search, early stopping, and ensemble tuning  
 - Notebook: `Ensemble.ipynb`, Presentation: `04 - Model Fit.pptx`  
@@ -26,7 +26,7 @@ This course explores foundational and advanced machine learning techniques appli
 ---
 
 ### 🧵 Module 5: Clustering & Association Rules  
-✅ [View Project Folder](./Module5_Clustering)  
+✅ [View Project Folder](https://github.com/zacharyallen66/mis776-machine-learning/tree/main/Module%205%20Clustering%20and%20Association%20Rules)  
 - K-Means, Hierarchical Clustering, DBSCAN  
 - Association Rules via Apriori  
 - Notebook: `Assignment2_Clustering.ipynb`, `Association Rules.ipynb`  
@@ -34,7 +34,7 @@ This course explores foundational and advanced machine learning techniques appli
 ---
 
 ### 🧬 Module 6: Deep Learning  
-✅ [View Project Folder](./Module6_DeepLearning)  
+✅ [View Project Folder](https://github.com/zacharyallen66/mis776-machine-learning/tree/main/Module%206%20Introduction%20to%20Deep%20Learning%20-%20Sep%2030)  
 - Dense Neural Networks using Keras  
 - PyCaret demonstration on regression tasks  
 - Notebook: `PyCaret Demo.ipynb`, `Regression Demo.ipynb`  
@@ -43,7 +43,7 @@ This course explores foundational and advanced machine learning techniques appli
 ---
 
 ### 🌿 Module 7: Image Classification  
-✅ **[Mango Leaf Disease Detection App](https://github.com/zacharyallen66/mango-disease-app)**  
+✅ |**[Mango Leaf Disease Detection App](https://github.com/zacharyallen66/mango-disease-app)** | **[Module 7](https://github.com/zacharyallen66/mis776-machine-learning/tree/main/Module%207%20%20Image%20Classification%20-%20Oct%2014)**|
 - Streamlit app using TensorFlow CNN  
 - Predicts 8 mango leaf diseases and recommends treatment  
 - 🧠 Model: `mango_model_fixed.keras`  
@@ -53,13 +53,13 @@ This course explores foundational and advanced machine learning techniques appli
 ---
 
 ### 😶‍🌫️ Module 8: Facial Recognition  
-🟡 *In Progress*  
+🟡 *Resolving Issues*  
 - Planned: Face embeddings, OpenCV matching, real-time ID
 
 ---
 
 ### 🔍 Module 9: Object Detection  
-✅ [View Project Folder](./Module9_ObjectDetection)  
+✅ [View Project Folder](https://github.com/zacharyallen66/mis776-machine-learning/tree/main/Module%209%20Object%20Detection%20-%20Oct%2028)  
 - YOLO pretrained demo  
 - Custom object detection and transfer learning  
 - Notebook: `PretrainedYOLODemo.ipynb`
@@ -67,7 +67,7 @@ This course explores foundational and advanced machine learning techniques appli
 ---
 
 ### 🎭 Module 10: Adversarial Networks  
-🟡 *In Progress*  
+✅ [View Project Folder](https://github.com/zacharyallen66/mis776-machine-learning/tree/main/Module%2010%20Adversarial%20Networks%20-%20Nov%204) 
 - Planned: GAN implementation for image generation and augmentation
 
 ---
