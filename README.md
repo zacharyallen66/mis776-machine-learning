@@ -18,7 +18,7 @@ This course explores foundational and advanced machine learning techniques appli
 ---
 
 ### ⚙️ Module 4: Model Fit, Overfitting, and Tuning  
-✅ [View Project Folder](./Module4_ModelFit)  
+✅ [View Project Folder](https://github.com/zacharyallen66/mis776-machine-learning/blob/main/Module4_ModelFit)  
 - Explored bias-variance tradeoff  
 - Used grid search, early stopping, and ensemble tuning  
 - Notebook: `Ensemble.ipynb`, Presentation: `04 - Model Fit.pptx`  
