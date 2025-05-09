@@ -10,7 +10,7 @@ This course explores foundational and advanced machine learning techniques appli
 ## 📂 Portfolio Projects by Module
 
 ### 🫮 Module 3: Probability-Based Models  
-✅ [View Project Folder](./Module3_ProbabilityModels)  
+✅ [View Project Folder](https://github.com/zacharyallen66/mis776-machine-learning/blob/main/Module3_ProbabilityModels)  
 - Implemented Gaussian Naive Bayes and GMM classification  
 - Evaluated using confusion matrix, accuracy, and log loss  
 - Notebooks: `Assignment1_Classification.ipynb`, `Gaussian Prediction.ipynb`  
